@@ -1,5 +1,5 @@
-## Project Description
+## Website to access all my thesis versions
 
-* [live example](https://learning-zone.github.io/website-templates/3-col-portfolio)
+* [Here's the website]([https://learning-zone.github.io/website-templates/3-col-portfolio](https://minusmagis.github.io/PhD_Thesis_Marti_Gibert_Roca/))
 
 ![alt text](https://github.com/learning-zone/website-templates/blob/master/assets/3-col-portfolio.png "3-col-portfolio.png")
